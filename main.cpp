@@ -4,7 +4,7 @@
 int main() 
 {
     /*******Step 1 ********/
-/*
+
     // stiffness matrix
     vector<vector<double>> A =
         {
@@ -15,7 +15,7 @@ int main()
             {  0, -1,  0, -1,  5, -1 },
             {  0,  0, -1,  0, -1,  6 }
         };
-*/
+
     /*******Step 2 ********/
 /*
     // right hand vector 
