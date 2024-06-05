@@ -32,10 +32,10 @@ int main()
     double tol = 1e-1;
 */
     /*******Step 5 ********/
-/*
+
     // Define the initial guess
     vector<double> x0 = { 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 };
-*/
+
     /*******Step 6.1 ********/
 /*
     // Call the PCG solver function with a maximum of 1000 iterations and a tolerance of 1e-6
