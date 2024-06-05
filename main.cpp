@@ -20,12 +20,12 @@ int main()
 /*
     // right hand vector 
     vector<double> b = { 1, 0, 0, 0, 0, 0 };
-*/ 
+*/
     /*******Step 3 ********/
-/*
+
     // max iteration   
     int maxiter = 1000;
-*/
+
     /*******Step 4 ********/
 /*
     // convergence tolerence
