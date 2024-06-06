@@ -25,7 +25,7 @@ int main()
 
     // max iteration   
 
-    int maxiter = 1200;
+    int maxiter = 1500;
 
     /*******Step 4 ********/
 /*
